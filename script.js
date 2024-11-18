@@ -5,7 +5,7 @@ var grade4 = Number(prompt("Enter Client Side Scripting 2 Grade:"));
 var grade5 = Number(prompt("Enter Project A Grade:"));
 
 var result =
-  "Your CS10 grade is:" +
+  "Your CS10 grade is : " +
   (grade1 + grade2 + grade3 + grade4 + grade5) / 5 +
   "%";
 alert(result);
